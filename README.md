@@ -4,9 +4,9 @@ A modern, high-performance landing page built with **React**, **Vite**, and **Ta
 
 ---
 
-## ✨ Preview
+## ✨ Live Demo
 
-> Live on [http://localhost:5173](http://localhost:5173) after running locally.
+🔗 **[https://plety-landing-page.vercel.app/](https://plety-landing-page.vercel.app/)**
 
 ---
 
